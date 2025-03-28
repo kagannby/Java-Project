@@ -1,0 +1,10 @@
+sakir savci employer 101 sakir@gmail.com sakir123
+ulas cete employer 102 ulas@gmail.com ulas123
+kagan yilmaz employer 103 kagan@gmail.com kagan123
+hakan yetkin chef 201 101 10
+arda karabulut chef 202 101 12
+elcibey usta accountant 203 103 2
+Berkay doğan accountant 204 103 5
+arda duyar waiter 205 102 8
+dilara ozturk waiter 206 102 0
+berke anik waiter 207 102 3

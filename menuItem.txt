@@ -1,0 +1,14 @@
+5001 Burger Food 300 100
+5002 Pizza Food 350 200
+5003 Wrap Food 200 500
+5004 Sushi Food 400 100
+5005 taco Food 100 1000
+6001 water Beverage 20 5000
+6002 cola Beverage 60 5000
+6003 ayran Beverage 40 3000
+6004 soda Beverage 30 3000
+7001 mayonnaise extra 5 10000
+7002 ketchup extra 5 10000
+7003 mustard extra 10 3000
+7004 cheese extra 30 5000
+7005 frenchFries extra 70 10000
